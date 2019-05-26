@@ -82,9 +82,3 @@ class XMLConvert:
 ST = XMLConvert(sample)
 ST.PrintConverted()
 
-
-
-
-3
-
-
